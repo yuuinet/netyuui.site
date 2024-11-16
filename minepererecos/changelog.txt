@@ -1,4 +1,1 @@
-**Isso** e um ~~teste!~~ 
-**Olha so, um teste!**
-![](https://f.feridinha.com/7gAkk.png)
-[Link](www.google.com)
+**Isso** e um ~~teste!~~ **Olha so, um teste!** ![](https://f.feridinha.com/7gAkk.png) [Link](www.google.com)
