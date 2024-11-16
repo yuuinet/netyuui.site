@@ -21,15 +21,3 @@ Nunca foi tão fácil, veja esse novo método revolucionário
 # Imagem clicavel
 
 ![](https://f.feridinha.com/7gAkk.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-## Tabelas?
-
-Tabelas ebaaaaa
-
-|                |ASCII      |
-|----------------|-----------|
-|Single backticks|Caramba    |
-|Quotes          |Que pinto? |
-|Dashes          |Enorme     |
-
