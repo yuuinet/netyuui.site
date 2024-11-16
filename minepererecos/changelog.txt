@@ -22,24 +22,14 @@ Nunca foi tão fácil, veja esse novo método revolucionário
 
 ![](https://f.feridinha.com/7gAkk.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Cuidado!!!! 
-Possivel matematica jumpscare incomming
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
 
-## Diagramas UML
+## Tabelas?
 
-Eu realmente nao sei aonde usaríamos isso 
+Tabelas ebaaaaa
 
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
