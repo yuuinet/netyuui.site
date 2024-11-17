@@ -1,24 +1,44 @@
-## Eita como a administraçao do MinePererecos trabalha.
+## A grande atualização chegou!
+![Dessa dessa fofuxa](https://i.imgur.com/pl0K0UD.png)
+# Minepererecos 3.0 Changelog
 
-**Leros Laros** Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros **Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros** Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros **Laros Leros Laros Leros Laros Leros Laros Leros Laros Leros Laros** 
+## Configurações Gerais
+- ✔️ Restringir acesso e comandos no mundo principal.
+- ✔️ Configurar retorno ao centro para jogadores caindo no caldeirão.
+- ✔️ Spawn automático ao entrar.
+- ✔️ Restringir saída da área de spawn e uso de comandos de teleporte.
+- ✔️ Configurar addon Simple Voice (broadcast).
+- ✔️ Ajustar teleporte via portal.
+- ✔️ Configurar regiões de proteção no evento.
 
-## One more thing
-Mais uma coisa.
- - Olha so
- - Olha la
- - Legal, bonito
- - OooooOooooO
- - Sabado eu me mato
- - Eh eh, sabado eu me mato
- - Oba, sabado eu me mato
+## Modpack e Menus
+- ✔️ Novo menu padrão do modpack com animação de título e nova tela de loading.
+- ✔️ Cinematic de fundo gravada.
+- ✔️ Menu de evento com logo de Halloween.
+- ✔️ Modpack lite com otimizações e melhorias de qualidade.
 
-## Como clonar cartao facil rapido seguro de casa.
-Nunca foi tão fácil, veja esse novo método revolucionário
-[Clique aqui e descubra](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Eventos e Criaturas
+- ✔️ Corrigir texturas de itens dos pacotes de Halloween.
+- Configurar spawn de criaturas fantasmagóricas (Halloween vol. 2 e 3).
 
+## Sistemas e Otimização
+- ✔️ Sistema de tutorial (em desenvolvimento).
+- ✔️ Sistema de regras (implementação inicial).
+- Preparar Discord do servidor para integração.
 
-> Não é a **consciência do homem** que lhe determina o ser, mas, ao contrário, o seu **ser social** que lhe determina a consciência.
+## NPCs e Lojas
+- ✔️ Configurar diálogos e loja de cosméticos (Louis Froggion).
+- ✔️ Configurar loja de Gacha.
+- Configurar ateliê de pintura com tutoriais e venda de quadros.
+- Configurar loja de celulares (Ifroog).
+- Configurar loja Pererevi.
 
-# Imagem clicavel
+## HUD e Interface
+- ✔️ Ajustar HUD (barra de XP, offhand, seletor).
+- ✔️ Reformular e otimizar o tab com novas informações.
+- ✔️ Melhorias em cosméticos e itens customizáveis.
 
-![](https://f.feridinha.com/7gAkk.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Diversos
+- ✔️ Comando para desabilitar sustos.
+- ✔️ Implementar HUD para administração/moderação.
+- ✔️ Contato com parceiros para eventos e colaborações.
