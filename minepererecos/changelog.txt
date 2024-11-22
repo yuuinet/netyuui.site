@@ -1,44 +1,7 @@
-## A grande atualização chegou!
-![Dessa dessa fofuxa](https://i.imgur.com/pl0K0UD.png)
-# Minepererecos 3.0 Changelog
-
-## Configurações Gerais
-- ✔️ Restringir acesso e comandos no mundo principal.
-- ✔️ Configurar retorno ao centro para jogadores caindo no caldeirão.
-- ✔️ Spawn automático ao entrar.
-- ✔️ Restringir saída da área de spawn e uso de comandos de teleporte.
-- ✔️ Configurar addon Simple Voice (broadcast).
-- ✔️ Ajustar teleporte via portal.
-- ✔️ Configurar regiões de proteção no evento.
-
-## Modpack e Menus
-- ✔️ Novo menu padrão do modpack com animação de título e nova tela de loading.
-- ✔️ Cinematic de fundo gravada.
-- ✔️ Menu de evento com logo de Halloween.
-- ✔️ Modpack lite com otimizações e melhorias de qualidade.
-
-## Eventos e Criaturas
-- ✔️ Corrigir texturas de itens dos pacotes de Halloween.
-- Configurar spawn de criaturas fantasmagóricas (Halloween vol. 2 e 3).
-
-## Sistemas e Otimização
-- ✔️ Sistema de tutorial (em desenvolvimento).
-- ✔️ Sistema de regras (implementação inicial).
-- Preparar Discord do servidor para integração.
-
-## NPCs e Lojas
-- ✔️ Configurar diálogos e loja de cosméticos (Louis Froggion).
-- ✔️ Configurar loja de Gacha.
-- Configurar ateliê de pintura com tutoriais e venda de quadros.
-- Configurar loja de celulares (Ifroog).
-- Configurar loja Pererevi.
-
-## HUD e Interface
-- ✔️ Ajustar HUD (barra de XP, offhand, seletor).
-- ✔️ Reformular e otimizar o tab com novas informações.
-- ✔️ Melhorias em cosméticos e itens customizáveis.
-
-## Diversos
-- ✔️ Comando para desabilitar sustos.
-- ✔️ Implementar HUD para administração/moderação.
-- ✔️ Contato com parceiros para eventos e colaborações.
+## Minepererecos 3.0 Changelog
+![](https://i.imgur.com/pl0K0UD.png)
+## Em breve um changelog lindo aqui.
+- ✔️ Pipipipopopo.
+- ✔️ Liros Laros.
+- ✔️ Lorem Ipsum.
+- ✔️ Olha só que legal. 
