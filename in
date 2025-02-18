@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+    <header>
+        <title>|\]</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=800, height=600, initial-scale=1.0">
+        <link rel="stylesheet" href="css/principal.css">
+    </header>
+
+    <body>
+        <div id="container" class="fitacrepe">
+            <div id="cabecalho">
+                <p>
+                    <img id="banner" src="imagem/banner.gif"> //
+                    <a href="proj.html">projetos</a> //
+                    <a href="links.html">links</a> //
+                    <a href="contato.html">contato</a>
+                </p>
+            </div>
+        
+            <div id="content">
+                <h1><br>oi....</h1>
+                <p> você chegou ao meu lugarzinho na web,</p>
+            </div>
+
+
+            <div id="rodape"> <p>///// um forte abraço. ///// </p></div>
+        </div>
+    </body>
+</html>

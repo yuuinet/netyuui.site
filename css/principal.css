@@ -1,0 +1,34 @@
+/* todo: modularizar isso                     */
+
+body {
+    background: azure;
+    font-family: 'B612 Mono', monospace;
+}
+h1, h2, h3, a, p {
+    color: white;
+}
+
+
+.fitacrepe {
+    text-align: center;
+}
+
+#container {
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    text-align: left;
+}
+
+#cabecalho,
+#rodape {
+    padding: 8px 36px;
+    background: url(../imagem/inho.png) top left repeat fixed;
+}
+
+#content {
+    margin: 24px auto;
+    background: url(../imagem/testinho.jpg) top left repeat fixed;
+    word-wrap: anywhere;
+    word-break: break-all;
+}
