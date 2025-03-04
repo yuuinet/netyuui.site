@@ -1,34 +1,83 @@
-/* todo: modularizar isso                     */
+@font-face {
+    font-family: 'B612';
+    src:url('../tipografia/B612-Regular.ttf');
+}
 
 body {
-    background: azure;
-    font-family: 'B612 Mono', monospace;
+    background-color: #ff6b99;
+    font-family: 'B612 Mono';
+    margin: 0;
+    padding: 0;
 }
+
+header,
+footer {
+    padding: 8px 36px;
+    background: url(../imagem/inho.png) top left repeat fixed;
+    border: thick inset #31285a;
+}
+
+header {
+    font-size: 129%;
+
+}
+
+nav {
+    height: 0 auto;
+}
+
+main {
+    border: thick inset #31285a;
+    border-top-width: 24px;
+    border-bottom-width: 24px;
+    background: url(../imagem/testinho.jpg) top left repeat fixed;
+}
+
+main .direita, main .esquerda {
+    padding: 16px;
+}
+
 h1, h2, h3, a, p {
     color: white;
+    text-shadow: 2px 1px 0 #161616;
 }
 
+/* extensões, divs, etc */
 
-.fitacrepe {
-    text-align: center;
-}
-
-#container {
+.container {
     width: 800px;
     margin: 0 auto;
     position: relative;
-    text-align: left;
+    text-align: justify;
+    border: 16px outset #31285a;
 }
 
-#cabecalho,
-#rodape {
-    padding: 8px 36px;
-    background: url(../imagem/inho.png) top left repeat fixed;
+.trinta {
+    width: 30%;
 }
 
-#content {
-    margin: 24px auto;
-    background: url(../imagem/testinho.jpg) top left repeat fixed;
-    word-wrap: anywhere;
-    word-break: break-all;
+.quarenta {
+    width: 40%;
+}
+
+.cinquenta {
+    width: 50%;
+}
+
+.sessenta {
+    width: 60%;
+}
+
+.setenta {
+    width: 70%;
+}
+
+.coluna {
+    display: table-cell;
+    vertical-align: top;
+}
+
+
+#banner {
+    width: 157px;
 }
