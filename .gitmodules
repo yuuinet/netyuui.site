@@ -1,0 +1,6 @@
+[submodule "lastfm-now-playing"]
+	path = lastfm-now-playing
+	url = https://github.com/vojislav/lastfm-now-playing
+[submodule "lastfm"]
+	path = lastfm
+	url = https://github.com/yuuinet/lastfm
